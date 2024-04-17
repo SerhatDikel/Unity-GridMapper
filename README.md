@@ -8,4 +8,4 @@ Adds a Scriptable Object that enables the creation of small grid layouts in the 
 ![instruction](/Documentation/htu0.gif)
 
 ## Install
-Download the [latest releases](/releases) as a unitypackage, or clone this repository.
+Download the [latest release](https://github.com/SerhatDikel/Unity-GridMapper/releases) as a unitypackage, or clone this repository.
