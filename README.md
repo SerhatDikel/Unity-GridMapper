@@ -1,6 +1,8 @@
 # GridMapper Lite for Unity
-![1](/Documentation/img0.jpg)
+![cover](/Documentation/img0.jpg)
 
+# Description
+Adds a Scriptable Object that enables the creation of small grid layouts in the Inspector.
 
-## Description
-Adds a Scriptable Object that allows you to create small grid layouts in the Inspector.
+## Instructions
+![instruction](/Documentation/htu0.gif)
