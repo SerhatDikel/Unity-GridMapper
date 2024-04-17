@@ -77,17 +77,18 @@ public class GridMapperLiteEditor : Editor
             int columns = grid.GetLength(1) < column.intValue ? grid.GetLength(1) : column.intValue;
 
             grid = new int[row.intValue, column.intValue];
+            gridArray.arraySize = row.intValue * column.intValue;
+
             for (int i = 0; i < rows; i++)
             {
                 for (int j = 0; j < columns; j++)
                 {
                     grid[i, j] = gridBackup[i, j];
+
+                    gridArray.GetArrayElementAtIndex(j * row.intValue + i).intValue = grid[i, j];
                 }
             }
 
-            gridArray.arraySize = row.intValue * column.intValue;
-
-         
         }
         EditorGUILayout.EndVertical();
 
