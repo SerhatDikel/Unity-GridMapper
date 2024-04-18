@@ -1,7 +1,7 @@
 # GridMapper Lite for Unity
 ![cover](/Documentation/img0.jpg)
 
-## Description
+## About
 Adds a Scriptable Object that enables the creation of small grid layouts in the Inspector.
 
 # How to Use
@@ -14,3 +14,12 @@ The only thing left is to assign the GridMap and use it in your code.
 
 # Install
 Download the [latest release](https://github.com/SerhatDikel/Unity-GridMapper/releases) as a unitypackage, or clone this repository.
+
+# Author
+Serhat Dikel
+
+[Github/SerhatDikel](https://github.com/SerhatDikel)
+[YouTube/SerhatDikel](https://www.youtube.com/@serhatdikel/videos)
+
+## License
+Copyright © 2024, Serhat Dikel. Released under the MIT License.
